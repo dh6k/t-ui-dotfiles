@@ -1,0 +1,15 @@
+
+#=su
+files=Mix
+x=clear
+rs=restart
+\/=wifi
+
+wthr=tuiweather update
+f=lite
+c=máy ảnh
+m=email
+mse=com.microsoft.emmx
+
+q=qanda
+yv=com.vanced.android.youtube
